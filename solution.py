@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-chat_id = 123456 # Ваш chat ID, не меняйте название переменной
+chat_id = 232587297 # Ваш chat ID, не меняйте название переменной
 
 def solution(control_sales, control_apps, test_sales, test_apps, alpha=0.03):
   
